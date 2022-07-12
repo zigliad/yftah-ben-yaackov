@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.007950db.css",
+    "main.js": "/static/js/main.11184060.js",
+    "static/media/YBYLogo.jpg": "/static/media/YBYLogo.1246536ec6e134ca36aa.jpg",
+    "static/media/YiftahBenYaackov.jpg": "/static/media/YiftahBenYaackov.fa789ea44d06cbb25de1.jpg",
+    "index.html": "/index.html",
+    "main.007950db.css.map": "/static/css/main.007950db.css.map",
+    "main.11184060.js.map": "/static/js/main.11184060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007950db.css",
+    "static/js/main.11184060.js"
+  ]
+}

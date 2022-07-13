@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yftah-ben-yaackov/static/css/main.007950db.css",
-    "main.js": "/yftah-ben-yaackov/static/js/main.319f1522.js",
+    "main.css": "/yftah-ben-yaackov/static/css/main.030a9479.css",
+    "main.js": "/yftah-ben-yaackov/static/js/main.482f7394.js",
     "static/media/YBYLogo.jpg": "/yftah-ben-yaackov/static/media/YBYLogo.1246536ec6e134ca36aa.jpg",
     "static/media/YiftahBenYaackov.jpg": "/yftah-ben-yaackov/static/media/YiftahBenYaackov.fa789ea44d06cbb25de1.jpg",
     "index.html": "/yftah-ben-yaackov/index.html",
-    "main.007950db.css.map": "/yftah-ben-yaackov/static/css/main.007950db.css.map",
-    "main.319f1522.js.map": "/yftah-ben-yaackov/static/js/main.319f1522.js.map"
+    "main.030a9479.css.map": "/yftah-ben-yaackov/static/css/main.030a9479.css.map",
+    "main.482f7394.js.map": "/yftah-ben-yaackov/static/js/main.482f7394.js.map"
   },
   "entrypoints": [
-    "static/css/main.007950db.css",
-    "static/js/main.319f1522.js"
+    "static/css/main.030a9479.css",
+    "static/js/main.482f7394.js"
   ]
 }

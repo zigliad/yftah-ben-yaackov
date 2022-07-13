@@ -1,5 +1,5 @@
-import YiftahBenYaackov from "./YiftahBenYaackov.jpg";
 import YBYLogo from "./YBYLogo.jpg";
+import YiftahBenYaackov from "./YiftahBenYaackov.jpg";
 
 function App() {
 	return (
@@ -9,10 +9,15 @@ function App() {
 				src={YiftahBenYaackov}
 				alt="Yftah Ben Yaackov"
 			/>
-			<p className="text-4xl">Yftah Ben Yaackov, Lawyer</p>
-			<p className="text-xl text-gray-500">
+			<p className="text-4xl text-center">
+				Yftah Ben Yaackov, Notary & Lawyer
+			</p>
+			<p className="text-xl text-center text-gray-500">
 				Real Estate | Corporate Law | Commercial Law | Notarized
 				Certificates
+			</p>
+			<p className="text-xl text-center">
+				+972-8-6755259 | ybylawfirm@gmail.com
 			</p>
 			<img
 				className="inline object-cover h-16 rounded-xl"
